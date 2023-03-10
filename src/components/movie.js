@@ -17,10 +17,6 @@ export function Movie(props) {
           <Text fontSize={"small"}>
             Actors: {movie.Actors}
           </Text>
-
-          <Text fontSize={"small"}>
-            Reviews: star star star star star
-          </Text>
         </MovieContent>
 
         <SideBar>
