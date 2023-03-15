@@ -29,7 +29,7 @@ NTT DATA  technical challenge
 
 <h3>Create a .env file using the .ev.example parttern</h3>
 
-<h4>In case of running locally use PORT=http://localhost:PORTNUMBER</h4>
+<h4>In case of running locally use REACT_APP_API_ADRESS=http://localhost:PORTNUMBER</h4>
   
 <h3>Start the application by running</h3>
 
