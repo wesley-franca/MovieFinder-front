@@ -26,6 +26,10 @@ NTT DATA  technical challenge
 ```bash
   npm install
 ``` 
+
+<h3>Create a .env file using the .ev.example parttern</h3>
+
+<h4>In case of running locally use PORT=http://localhost:<myPort></h4>
   
 <h3>Start the application by running</h3>
 
